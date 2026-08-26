@@ -1,0 +1,4 @@
+interface:
+  display_name: "港股每日行情HTML"
+  short_description: "维护港股每日行情统计和技术筛选 HTML 固定入口。"
+  default_prompt: "打开或更新港股每日行情统计 HTML"
